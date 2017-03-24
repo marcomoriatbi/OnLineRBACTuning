@@ -1,0 +1,21 @@
+Fast Miner
+
+--------------------------------------------------------
+The permissions of the 0th role are: 
+p1,
+p4
+The users of the 0th role are: 
+u1,
+u2,
+u5
+
+--------------------------------------------------------
+The permissions of the 1th role are: 
+p2,
+p3
+The users of the 1th role are: 
+u3,
+u4,
+u5
+
+--------------------------------------------------------
